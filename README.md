@@ -13,3 +13,9 @@ RXJS
     },5000);
   ```
   - Push: observable model: the model itself knows when to change and show the view
+  ```javascript
+observeTweets()
+  .subscribe(() => {
+    showTweet()
+  })
+  ```
