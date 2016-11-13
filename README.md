@@ -19,3 +19,9 @@ observeTweets()
     showTweet()
   })
   ```
+  
+  ## Everything is a database
+  - mouse movement
+  - user input
+  - web requests
+  - etc.
