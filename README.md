@@ -25,3 +25,5 @@ observeTweets()
   - user input
   - web requests
   - etc.
+
+## Observables are lazy, they wont run unless you subscribe
